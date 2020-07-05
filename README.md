@@ -1,6 +1,6 @@
-##Letters and Numbers
+## Letters and Numbers
 
-#####Numbers
+##### Numbers
     python numbers.py Target num1 num2 num3 num4 num5 num6
 
     returns -> equation (eg . 
@@ -13,7 +13,7 @@
 
 	"No possible solutions"
 
-#####Letters
+##### Letters
 
     python letters.py let1 let2 let3 let4 let5 let6 let7 let8 let9
 
